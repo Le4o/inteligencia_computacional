@@ -1,2 +1,1 @@
 # inteligencia_computacional
-Atividades da materia
